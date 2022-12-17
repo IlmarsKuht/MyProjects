@@ -3,6 +3,8 @@
 
 Machine Learning:
 
+  - [Various DQN implementations](https://github.com/IlmarsKuht/DeepQLearning)
+
   - [Deep Q Snake AI](https://github.com/IlmarsKuht/snakeAI/tree/master)
   
   - [Rock Paper Scissors](https://replit.com/@ilmarskuhtarski/rock-paper-scissors##RPS.py)
@@ -16,6 +18,9 @@ Machine Learning:
   - [SMS Text Classifier](https://colab.research.google.com/drive/1p_FA0KXjrXUiRrzmD53Dl2JuYFxwdK4l##scrollTo=8RZOuS9LWQvv)
   
   - [Data Point Classification](https://github.com/IlmarsKuht/GameEngine)
+  
+  
+  
  
 C++:
 
