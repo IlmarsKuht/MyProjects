@@ -1,4 +1,4 @@
-# My not so terrible, maybe a little, projects and stuff...!
+# My not so terrible, maybe a little, projects and stuff...! (Out of date)
 
 
 Machine Learning:
